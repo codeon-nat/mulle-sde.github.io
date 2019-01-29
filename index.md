@@ -41,7 +41,7 @@ If you think "So what ?", then the answer is NO.
 * if you want to use it just to grab and build some dependencies (project type *none*): MAYBE
 * if you have time and energy to look into bash sources, to look for hidden options and to see why usages are out of date: GO FOR IT
 * if you just use the stable tools (see below): YES
-* if you generally need a lot of help to get your things together:NO
+* if you generally need a lot of help to get your things together: NO
 
 ## The snags
 
